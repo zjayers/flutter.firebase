@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "709208612726",
+    "firebase_url": "https://flash-chat-ayers.firebaseio.com",
+    "project_id": "flash-chat-ayers",
+    "storage_bucket": "flash-chat-ayers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709208612726:android:4050b5da3a806bef822457",
+        "android_client_info": {
+          "package_name": "com.zachayers.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709208612726-rdame9ecq54tmsm76oke2fvblttf8i29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCvWSIzN1a5XSXu21bPWdQQxfp0UxqssQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709208612726-rdame9ecq54tmsm76oke2fvblttf8i29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
